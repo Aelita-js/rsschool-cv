@@ -13,14 +13,15 @@
 * __GitHub:__ [aelita-js](https://github.com/Aelita-js)
 * __Discord:__ Aelita (Aelita-js) @dosei_kasei
 
-***
+---
 
 ### About Me:
 I am a junior developer with a strong focus on learning and development. 
 My goal is to become a software development professional. 
 I learn quickly and am ready to apply my knowledge by example. 
 My strengths include analytical thinking, attention to detail and the ability to work in a team.
-***
+
+---
 
 ### My Skills:
 * HTML, CSS, Sass
@@ -32,7 +33,8 @@ My strengths include analytical thinking, attention to detail and the ability to
 * Git, GitHub, GitLab
 * Azure DevOps, Microsoft Teams
 * Jira, Notion, Asana, Confluence, Trello, YouTrack
-***
+
+---
 
 ### Code Example:
 ```
@@ -54,7 +56,8 @@ function fib(n) {
 
 fib(3)
 ```
-***
+
+---
 
 ### Experience:
 * __[TimelySkills](https://timelyskills.com/)__ 2021 may - 2021 oct
@@ -68,7 +71,8 @@ fib(3)
  
 * __[TheTech (CAEDMI)](https://thetechkg.com/)__ 2021 may - 2021 oct
   - Project Manager
-***
+
+---
 
 ### Education:
 * __[Makers](https://makers.kg/) Coding Bootcamp:__ _2021 may - 2021 oct_
@@ -76,10 +80,10 @@ fib(3)
  
 * __[Comtechno:](https://comtehno.kg/) Bishkek College of Computer Systems and Technologies:__ _2022-2025_
   - Software Computer Technology and Automated Systems
-***
+ 
+---
 
 ### Languages:
 * English - Intermediate
 * Kyrgyz - Fluent
 * Russian - Upper-Inermediate
-***
