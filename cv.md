@@ -3,6 +3,8 @@
 # Aelita Imanaly kyzy
 ### Junior Frontend Developer
 
+![my_profile_photo](/profile_photo.jpg)
+
 #### Contact Information:
 * __E-mail:__ aelita.boost@gmail.com
 * __Phone:__ [+996555028771](tel:996555028771)
